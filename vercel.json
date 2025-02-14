@@ -1,13 +1,4 @@
 {
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "moviesstore/wsgi.py"
-    }
-  ]
-}
-
-{
   "version": 2,
   "builds": [
     {
